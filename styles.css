@@ -276,6 +276,8 @@ select:-webkit-autofill:focus {
     overflow-x: hidden; /* add this because of the animation of AOS */
 }
 
+/* AMEY FEW CHANGES */
+
 .showcase h1{
     font-family: 'inter-extrabold';
     letter-spacing: -0.8px;
@@ -290,6 +292,7 @@ select:-webkit-autofill:focus {
     width:80px;
     height:100px;
 }
+/* AMEY FEW CHANGES END */
 
 .showcase h2 {
     font-family: 'inter-semibold';
@@ -316,7 +319,7 @@ select:-webkit-autofill:focus {
     padding: 12px 38px;
     border-radius: 3px;
 }
-    /* ----------------PERSONALIZED BY AMEY -------------------*/
+/* ----------------PERSONALIZED BY AMEY -------------------*/
 @media all  and (min-width: 1274px) {
     .ameys{
         background-image: url('assets/big-logo.png');
@@ -557,7 +560,7 @@ footer .wrapper1 {
     padding-top: 10px;
 }
 
-.fa-envelope{
+.fa-facebook-square{
     color: #fff !important;
 }
 
@@ -674,9 +677,7 @@ footer .wrapper2 p:nth-child(2){
     /* ----- Info ------ */
     .main-menu .info {
         font-size: 13px;
-        width: 50px;
     }
-
 
     .main-menu .info .btn {
         font-size: 12px;
@@ -759,11 +760,6 @@ footer .wrapper2 p:nth-child(2){
 
 .contact-us h1{
     padding: 65px 0 0 20px;
-}
-
-.contact-us p{
-    padding: 0 0 0 40px;
-    font-size: 20px;
 }
 
 .contact-us form{
